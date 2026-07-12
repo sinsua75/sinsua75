@@ -5,3 +5,5 @@
   height="300"
 />
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinsua75&show_icons=true&theme=radical)
