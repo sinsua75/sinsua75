@@ -50,8 +50,14 @@
 
 <div align="center">
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sinsua75&utm_content=farm">
-<img src="https://render.gitanimals.org/farms/sinsua75" width="650"/>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=sinsua75&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sinsua75"
+  width="600"
+  height="300"
+/>
 </a>
+
 
 </div>
